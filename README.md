@@ -1,1 +1,1 @@
-# gulimall-admin-vue-app
+# mall-admin-vue-app
